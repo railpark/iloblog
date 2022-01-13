@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Railro Blog"
+title: "Railro Blog"
+description: "프로그래밍, IT, 삶의 향상을 위한 블로그"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://railpark.github.io/iloblog
@@ -17,9 +17,9 @@ authors:
     name: Sal
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: ebiz4us@naver.com
+    web: https://blog.naver.com/ebiz4us
+    twitter: https://twitter.com/
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
