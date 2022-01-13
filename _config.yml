@@ -2,8 +2,8 @@
 name: "Railro Blog"
 title: "Railro Blog"
 description: "프로그래밍, IT, 삶의 향상을 위한 블로그"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo1.png'
+favicon: 'assets/images/logo1.png'
 baseurl: https://railpark.github.io/iloblog
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
